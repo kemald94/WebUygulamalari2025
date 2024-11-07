@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="tr">  en olarak gelir tr yaptık
+<head>   sayfanın meta datasını barındıran kısım gözle görülmeyen, sayfa hakkında işlemler
+    <meta charset="UTF-8">  karakter set, sayfanın hangi formatta yazıldığını gösterir
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">  nasıl görüneceği, nerde çalıştığı pc ekranı ölçek vs...
+    <meta name="keyword" content="eticaret, bilgisayar"> bilgi amaçlı sınırsız açılır
+    <title>hepsiburada.com</title>  sayfanın sekmesinin üstünde yazan başlık
+    <meta name="description" content="Hepsiburada bir e ticaret sitesidir."> sayfada görünmez robotlarla alakalı arama motorları için
+</head>
+<body>  sayfada gözle gördüğümüz sonucunu gördüğümüz
+    <p>Bu bir paragraftır.</p> Sayfaya yazı yazdırmaya yarıyor.
+    <p>Bu da bir paragraftır.</p>
+    <h1>Heading       1</h1>  boşluk algılamıyor.
+    <h2>Heading 2</h2>
+    <h3>Heading 3</h3>  Belirli boyutlarda olan yazılar sürekli küçülen
+    <h4>Heading 4</h4>
+    <h5>Heading 5</h5>
+    <pre>Bu bir       predir</pre>   boşluk bırakmayı bu pre sağlar.
+    <abbr title="Yönetim Bilişim Sistemleri">YBS</abbr> altı çizili komut
+    <p>H<sub>2</sub>O</p>
+    <p>X<sup>2</sup>O</p> Harflari ve rakamları yukarı aşağı koymaya yarayan komut ex h20
+    <b>Bold</b> kalın yazar
+    <i>İ</i> italik yazar
+    <strong>strong</strong>  belirgin yazar
+    <em>em</em>  el yazısı gibi
+    b name="bold" id="bold" class="bold_class">bold</b>   name ile id aynı şeyler id daha çok kullanılır
+    <strong class="bold_class">strong</strong>
+
+<ul>
+    <li>Home</li> 
+    <li>Contact</li> noktalı liste
+    <li>Products</li>
+</ul>                          slash unutma yana kaydrırı
+<ol>
+    <li>Home</li> 
+    <li>Contact</li>   numaralı liste
+    <li>Products</li>
+</ol>
+<a href="https:www.deu.edu.tr">Tıkla</a>  tıklamalı adres çubuğu yapıyor
+
+
+
+
+</body>
+</html>
